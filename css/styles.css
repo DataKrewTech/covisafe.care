@@ -10504,3 +10504,13 @@ section#contact form#contactForm :-ms-input-placeholder {
 .dropdown:hover .dropdown-content {display: block;    padding-left: 0;}
 
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+.group-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.group-btn a {
+  white-space: nowrap;
+}
